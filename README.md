@@ -1,5 +1,9 @@
 # Coding with cursor
 
+This project is a simple app generated using Cursor AI and allows the user to check any stock market and display a graph timeline with the value the last 20 years.
+
+<img src="demo.gif"/>
+
 This is a simple [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), it's used as a starting point for testing a prompt in Cursor AI.
 
 More information can be found in the blog post [Code Smarter, Not Harder: Developing with Cursor and Claude Sonnet](https://jstoppa.com/posts/artificial-intelligence/fundamentals/code-smarter-not-harder-developing-with-cursor-and-claude-sonnet/post/).
