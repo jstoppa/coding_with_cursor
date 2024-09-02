@@ -11,7 +11,10 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.7"
+    "next": "14.2.7",
+    "axios": "^0.21.1",
+    "chart.js": "^3.7.0",
+    "react-chartjs-2": "^3.0.4"
   },
   "devDependencies": {
     "typescript": "^5",
