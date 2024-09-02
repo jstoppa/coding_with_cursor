@@ -1,6 +1,6 @@
 # Coding with cursor
 
-This project is a simple app generated using Cursor AI and allows the user to check any stock market and display a graph timeline with the value the last 20 years.
+This is an app that has been generated using Cursor AI, it allows the user to check any stock market and display a graph timeline with the value the last 20 years.
 
 <img src="demo.gif"/>
 
@@ -8,8 +8,7 @@ This is a simple [Next.js](https://nextjs.org/) project bootstrapped with [`crea
 
 More information can be found in the blog post [Code Smarter, Not Harder: Developing with Cursor and Claude Sonnet](https://jstoppa.com/posts/artificial-intelligence/fundamentals/code-smarter-not-harder-developing-with-cursor-and-claude-sonnet/post/).
 
-The prompt below is used to generate an app that allows the user to check any stock market and display a graph timeline with the value the last 20 years.
-
+The prompt below is used to generate the app in the demo.
 ```
 create an app what allows you to search any stock in the market and show them in a graph timeline with the value in the last 20 years. 
 
